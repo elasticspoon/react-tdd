@@ -4,4 +4,3 @@ describe("empty spec", () => {
     cy.contains("Learn React");
   });
 });
-
